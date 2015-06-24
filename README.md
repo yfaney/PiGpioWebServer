@@ -15,4 +15,7 @@ https://github.com/yfaney/PiSwitch
 
 This project follows the original license where it comes from.
 
+In addition, I used some existing code for building a GPIO Web Server but I cannot find where I downloaded it.
+Please let me know if anyone knows where it was, who originally built it.
+
 You can download it, modify it, redistribute it, but <b>just remember that someone has worked hard</b>. :)
